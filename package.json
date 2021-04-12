@@ -1,0 +1,24 @@
+{
+  "name": "cli-node-hw01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliyalip/CLI-node-hw01.git"
+  },
+  "author": "lipatova Juliya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juliyalip/CLI-node-hw01/issues"
+  },
+  "homepage": "https://github.com/juliyalip/CLI-node-hw01#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
